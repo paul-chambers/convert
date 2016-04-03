@@ -2,7 +2,7 @@
 tool that compares the files in a source directory against a destination directory,
 and runs an executable when the destination file is missing or older.
 
-<pre><code> convert -v -i /path/to/source -o /path/to/destination -e ext <executable> %i %o
+<pre><code> convert -v -i /path/to/source -o /path/to/destination -e ext &lt;executable&gt; %i %o
 
  -v  be verbose about decisions being made
  -i  path to source directory
