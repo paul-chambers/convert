@@ -1,3 +1,6 @@
+convert
+test
+
 # Object files
 *.o
 *.ko
